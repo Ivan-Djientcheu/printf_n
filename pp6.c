@@ -1,7 +1,13 @@
-#include<stdio.h>
+#include <stdio.h>
 
 void main()
-{
-	printf("Helllo World!");
+
+{	
+	printf("Hello World!\n Denn Hello World in ASCII-Art: \n\n");
+	printf("#  #  #  #   #        #     #            #    #\n");
+        printf("#  # # # #   #   ##   #     #  ##   # #  #   ##\n");
+	printf("#### ##  #   #  #  #  #  #  # #  #  #    #  # #\n");
+	printf("#  #  ## ##  ##  ##     #  #   ##   #    ## ###\n");
 	return 0;
 }
+
